@@ -1,0 +1,6 @@
+{
+  "name": "VELORA",
+  "description": "VELORA — Haute Couture & Luxury Ready-to-Wear Maison. Timeless tailoring, deep burgundy silk, and artisanal craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
